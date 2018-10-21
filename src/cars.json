@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/aiCSKKs.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/NhDmdKL.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/jzpZ0zN.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/BywVv4n.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/EdV0QVO.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/QMQZ0n2.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/L9hSzUr.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/fYMTlJk.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/UHQjlEX.png",
+      "clicked": false
+    }
+  ]
+  

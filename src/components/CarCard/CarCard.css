@@ -1,0 +1,25 @@
+.card {
+  
+    width: 160px;
+    height: 160px;
+    margin: 10px;
+    position: relative;
+    transition: all .23 ease-in-out;
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .card > .img-container > img {
+    height: 100%;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  
+  .card:active {
+    transform: translate(1px, 1px);
+  }

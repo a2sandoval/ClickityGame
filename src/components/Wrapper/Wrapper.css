@@ -1,0 +1,9 @@
+.wrapper {
+    background-image: url('https://thewritelife.com/wp-content/uploads/2016/01/road-1031702_1920.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding-bottom: 10px;
+  }
